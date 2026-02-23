@@ -1,4 +1,4 @@
-# Infrastructure-Roadmap-Rain
+# Infrastructure-Roadmap
 First 90 Days: Baseling Rain’s IT & Security Foundation
 1. **Phase 1 (Days 1-30):** Discovery & Audit. Audit 1Password vaults, JumpCloud permissions, and MDM enrollment status.
 2. **Phase 2 (Days 31-60):** Hardening. Enforcement of hardware-based MFA (YubiKeys) and cleanup of "Shadow IT."
